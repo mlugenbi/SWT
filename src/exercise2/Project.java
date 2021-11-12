@@ -7,7 +7,8 @@ public class Project {
 	
 	
 	public Project() {
-		
+		//aggregation
+		members[0] = new Student();
 	}
 	
 	public String getName() {

@@ -1,5 +1,5 @@
 package exercise2;
-
+//sub class
 public class Professor extends Employee {
 
 	public Course courses[];
